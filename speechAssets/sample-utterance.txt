@@ -1,4 +1,4 @@
-askCleverIntent {game grumps  six  seven |query}
+askCleverIntent {game grumps  six  seven |query} 
 askCleverIntent {game grumps  six  zero |query}
 askCleverIntent {game grumps  six  two |query}
 askCleverIntent {king's quest  six  game grumps|query}
