@@ -9,3 +9,5 @@
 
 ##Usage
 Just say what you want to say to say to Cleverbot.
+
+UPDATE: THIS NO LONGER WORKS BECAUSE OF AN UPDATE TO THE CLEVERBOT API
